@@ -1,3 +1,4 @@
+An all-new, general-purpose real-time synchronization system.
 Blender and Unity pipelines completed.
 <img width="3835" height="2097" alt="image" src="https://github.com/user-attachments/assets/0ae342f2-9f4b-4f83-bb9e-8cc78c317ad7" />
 
