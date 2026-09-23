@@ -1,7 +1,7 @@
 An all-new, general-purpose real-time synchronization system.
 Blender and Unity pipelines completed.
 <img width="3835" height="2097" alt="image" src="https://github.com/user-attachments/assets/0ae342f2-9f4b-4f83-bb9e-8cc78c317ad7" />
-<img width="3831" height="2102" alt="image" src="https://github.com/user-attachments/assets/6db629cd-97bb-4376-a7da-6dc607f2f243" />
+<img width="3832" height="2100" alt="image" src="https://github.com/user-attachments/assets/96c14c34-677d-48f4-ab03-e45329ced1a0" />
 
 The Unity pipeline is nearly complete.
 Next, I'll start working on the Blender pipeline.
